@@ -10,5 +10,18 @@ Latest version
 Unity 2017.4.28f1
 ``
 
+# Dependencies:
+``
+Post processing 2
+``
+``
+Standart Assets
+``
+``
+Bakery
+``
+``
+VRChat SDK
+``
 
-# Unity Collaborate: Что бы применились лайтмапы бейкери, нужно удалить проект и заново его залить.
+# Unity Collaborate: Что бы применялись лайтмапы бейкери, нужно удалить проект и заново его залить.
