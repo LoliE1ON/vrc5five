@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: b213fbc720b13c441ab7451de1d8987f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 2_18
+    100004: 5STENA2
+    100006: 5STENA2.001
+    100008: 5STENA2.002
+    100010: Cube.002
+    100012: 5STENA2.003
+    100014: Cube
+    100016: Cube.001
+    400000: //RootNode
+    400002: 2_18
+    400004: 5STENA2
+    400006: 5STENA2.001
+    400008: 5STENA2.002
+    400010: Cube.002
+    400012: 5STENA2.003
+    400014: Cube
+    400016: Cube.001
+    2100000: No Name
+    2100002: 5STENA2
+    2100004: 2_18
+    2300000: //RootNode
+    2300002: 2_18
+    2300004: 5STENA2
+    2300006: 5STENA2.001
+    2300008: 5STENA2.002
+    2300010: Cube.002
+    2300012: 5STENA2.003
+    2300014: Cube
+    2300016: Cube.001
+    3300000: //RootNode
+    3300002: 2_18
+    3300004: 5STENA2
+    3300006: 5STENA2.001
+    3300008: 5STENA2.002
+    3300010: Cube.002
+    3300012: 5STENA2.003
+    3300014: Cube
+    3300016: Cube.001
+    4300000: Cube
+    4300002: 5STENA2
+    4300004: 2_18
+    4300006: 5STENA2.001
+    4300008: 5STENA2.002
+    4300010: Cube.002
+    4300012: 5STENA2.003
+    4300014: 5STENA2.004
+    4300016: Cube.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10-Stunning-Amazing-Carpet-Texture-Ideas-Home-Design-Ideas
+    second: {fileID: 2100000, guid: bf19981e694a41b4bbcc4736e5ba6d2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2_18
+    second: {fileID: 2100000, guid: 5c9ffce1e8140e44b9cdae9d87e9add2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5NeonGreen
+    second: {fileID: 2100000, guid: 07bb4b86306575d46adb19fb3e57a950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5NeonRed
+    second: {fileID: 2100000, guid: d256a54f408391b45b1ed0c96613be72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5STENA2
+    second: {fileID: 2100000, guid: 6b212a23fcf97b047961452371e4c9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5glass
+    second: {fileID: 2100000, guid: 52d7b266bc2578c418573528533ff98a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: cb89efd835873b44590d91038be1f29c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: as6
+    second: {fileID: 2100000, guid: b90c3e03993cb554ba9e39f0914684d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["5STENA2.004"],"padding":[11]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
