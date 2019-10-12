@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 27f9f69e3e209e24d8afe35dc76fda14
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 5bot
+    100002: 5glass
+    100004: 5glass.001
+    100006: 5glass.002
+    100008: 5glass.003
+    100010: 5pol
+    100012: 5pol.001
+    100014: 5pol.002
+    100016: Cube
+    100018: Hemi
+    100020: //RootNode
+    100022: 5base
+    100024: 5potolo2
+    100026: 5potolok
+    100028: 5potolok3
+    100030: Hemi.017
+    100032: 5stup2
+    100034: 5potolo2.001
+    100036: 5potolok3.001
+    100038: 5pol.003
+    100040: 5TopRefl
+    100042: 5TopRefl.001
+    100044: 5TopRefl.002
+    100046: 5TopRerf
+    100048: Cube.001
+    100050: Fence
+    100052: Fence.001
+    100054: Fence.002
+    100056: Fence.003
+    100058: Fence.004
+    100060: Fence.005
+    100062: Fence.006
+    100064: Fence.008
+    100066: 5line
+    100068: 5polki
+    100070: 5polki.001
+    100072: Fence.000
+    100074: Cube.003
+    100076: Hemi.003
+    100078: Cube.004
+    100080: 5pol.005
+    100082: lamps
+    100084: lamps.001
+    100086: lamps.002
+    100088: sigiBox
+    100090: as6
+    100092: asphalt5.000
+    100094: bordurTree
+    100096: CnucklesStatue
+    100098: Lamps2
+    100100: Plane
+    100102: trava2
+    100104: Zabor.024
+    100106: Hemi.001
+    100108: Hemi.002
+    100110: Hemi.004
+    100112: Hemi.005
+    100114: Hemi.006
+    100116: Hemi.007
+    100118: Hemi.008
+    100120: Hemi.009
+    100122: Hemi.010
+    100124: Hemi.012
+    100126: Lamp
+    400000: 5bot
+    400002: 5glass
+    400004: 5glass.001
+    400006: 5glass.002
+    400008: 5glass.003
+    400010: 5pol
+    400012: 5pol.001
+    400014: 5pol.002
+    400016: Cube
+    400018: Hemi
+    400020: //RootNode
+    400022: 5base
+    400024: 5potolo2
+    400026: 5potolok
+    400028: 5potolok3
+    400030: Hemi.017
+    400032: 5stup2
+    400034: 5potolo2.001
+    400036: 5potolok3.001
+    400038: 5pol.003
+    400040: 5TopRefl
+    400042: 5TopRefl.001
+    400044: 5TopRefl.002
+    400046: 5TopRerf
+    400048: Cube.001
+    400050: Fence
+    400052: Fence.001
+    400054: Fence.002
+    400056: Fence.003
+    400058: Fence.004
+    400060: Fence.005
+    400062: Fence.006
+    400064: Fence.008
+    400066: 5line
+    400068: 5polki
+    400070: 5polki.001
+    400072: Fence.000
+    400074: Cube.003
+    400076: Hemi.003
+    400078: Cube.004
+    400080: 5pol.005
+    400082: lamps
+    400084: lamps.001
+    400086: lamps.002
+    400088: sigiBox
+    400090: as6
+    400092: asphalt5.000
+    400094: bordurTree
+    400096: CnucklesStatue
+    400098: Lamps2
+    400100: Plane
+    400102: trava2
+    400104: Zabor.024
+    400106: Hemi.001
+    400108: Hemi.002
+    400110: Hemi.004
+    400112: Hemi.005
+    400114: Hemi.006
+    400116: Hemi.007
+    400118: Hemi.008
+    400120: Hemi.009
+    400122: Hemi.010
+    400124: Hemi.012
+    400126: Lamp
+    2100000: No Name
+    2100002: 5pol
+    2100004: 5bot
+    2100006: 5stena
+    2100008: 5stena2
+    2100010: 5green45
+    2100012: 5stup
+    2100014: Material
+    2100016: 5greenRefl
+    2100018: 5redRefl
+    2100020: 5krysha
+    2100022: None
+    2100024: 5fanceRefl
+    2100026: 5red45
+    2100028: kassa
+    2100030: 5polGreen
+    2300000: 5bot
+    2300002: 5glass
+    2300004: 5glass.001
+    2300006: 5glass.002
+    2300008: 5glass.003
+    2300010: 5pol
+    2300012: 5pol.001
+    2300014: 5pol.002
+    2300016: Cube
+    2300018: 5base
+    2300020: 5potolo2
+    2300022: 5potolok
+    2300024: 5potolok3
+    2300026: 5stup2
+    2300028: 5potolo2.001
+    2300030: 5potolok3.001
+    2300032: 5pol.003
+    2300034: 5TopRefl
+    2300036: 5TopRefl.001
+    2300038: 5TopRefl.002
+    2300040: 5TopRerf
+    2300042: Cube.001
+    2300044: Fence
+    2300046: Fence.001
+    2300048: Fence.002
+    2300050: Fence.003
+    2300052: Fence.004
+    2300054: Fence.005
+    2300056: Fence.006
+    2300058: Fence.008
+    2300060: 5line
+    2300062: 5polki
+    2300064: 5polki.001
+    2300066: Fence.000
+    2300068: Cube.003
+    2300070: Cube.004
+    2300072: 5pol.005
+    2300074: lamps
+    2300076: lamps.001
+    2300078: lamps.002
+    2300080: sigiBox
+    2300082: as6
+    2300084: asphalt5.000
+    2300086: bordurTree
+    2300088: CnucklesStatue
+    2300090: Lamps2
+    2300092: Plane
+    2300094: trava2
+    2300096: Zabor.024
+    3300000: 5bot
+    3300002: 5glass
+    3300004: 5glass.001
+    3300006: 5glass.002
+    3300008: 5glass.003
+    3300010: 5pol
+    3300012: 5pol.001
+    3300014: 5pol.002
+    3300016: Cube
+    3300018: 5base
+    3300020: 5potolo2
+    3300022: 5potolok
+    3300024: 5potolok3
+    3300026: 5stup2
+    3300028: 5potolo2.001
+    3300030: 5potolok3.001
+    3300032: 5pol.003
+    3300034: 5TopRefl
+    3300036: 5TopRefl.001
+    3300038: 5TopRefl.002
+    3300040: 5TopRerf
+    3300042: Cube.001
+    3300044: Fence
+    3300046: Fence.001
+    3300048: Fence.002
+    3300050: Fence.003
+    3300052: Fence.004
+    3300054: Fence.005
+    3300056: Fence.006
+    3300058: Fence.008
+    3300060: 5line
+    3300062: 5polki
+    3300064: 5polki.001
+    3300066: Fence.000
+    3300068: Cube.003
+    3300070: Cube.004
+    3300072: 5pol.005
+    3300074: lamps
+    3300076: lamps.001
+    3300078: lamps.002
+    3300080: sigiBox
+    3300082: as6
+    3300084: asphalt5.000
+    3300086: bordurTree
+    3300088: CnucklesStatue
+    3300090: Lamps2
+    3300092: Plane
+    3300094: trava2
+    3300096: Zabor.024
+    4300000: Cube
+    4300002: 5glass
+    4300004: 5glass.003
+    4300006: 5glass.002
+    4300008: 5glass.001
+    4300010: 5pol
+    4300012: 5pol.002
+    4300014: 5pol.001
+    4300016: 5bot
+    4300018: 5base
+    4300020: 5potolok
+    4300022: 5potolok3
+    4300024: 5potolo2
+    4300026: 5stup2
+    4300028: 5potolo2.001
+    4300030: 5potolok3.001
+    4300032: 5TopRefl
+    4300034: 5TopRerf
+    4300036: 5TopRefl.001
+    4300038: 5TopRefl.002
+    4300040: Cube.001
+    4300042: 5pol.003
+    4300044: Fence.006
+    4300046: Fence.005
+    4300048: Fence.004
+    4300050: Fence.003
+    4300052: Fence.002
+    4300054: Fence.001
+    4300056: Fence
+    4300058: Fence.008
+    4300060: 5line
+    4300062: 5polki
+    4300064: 5polki.001
+    4300066: Fence.000
+    4300068: Cube.003
+    4300070: Cube.004
+    4300072: 5pol.005
+    4300074: lamps
+    4300076: lamps.002
+    4300078: lamps.001
+    4300080: sigiBox
+    4300082: bordurTree
+    4300084: Plane
+    4300086: asphalt5.000
+    4300088: Zabor.024
+    4300090: Lamps2
+    4300092: CnucklesStatue
+    4300094: as6
+    4300096: trava2
+    10800000: Hemi
+    10800002: Hemi.017
+    10800004: Hemi.003
+    10800006: Hemi.001
+    10800008: Hemi.002
+    10800010: Hemi.004
+    10800012: Hemi.005
+    10800014: Hemi.006
+    10800016: Hemi.007
+    10800018: Hemi.008
+    10800020: Hemi.009
+    10800022: Hemi.010
+    10800024: Hemi.012
+    10800026: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5bot
+    second: {fileID: 2100000, guid: 01d160e4001b3e04abaf7c11019024b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5bot.001
+    second: {fileID: 2100000, guid: 01d160e4001b3e04abaf7c11019024b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5fanceRefl
+    second: {fileID: 2100000, guid: dde34c7171886214ebcc492ae27f465a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5fanceRefl.001
+    second: {fileID: 2100000, guid: dde34c7171886214ebcc492ae27f465a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5green45
+    second: {fileID: 2100000, guid: 48531a6bdaad3f648b73d09ec03ee585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5green45.001
+    second: {fileID: 2100000, guid: d0ccc94f3709fcd4c95962d32f06a85e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5greenRefl
+    second: {fileID: 2100000, guid: d8cdfec831effe14eb645b5704bae608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5greenRefl.001
+    second: {fileID: 2100000, guid: 13637826cbf1cf54999ed739b0bad0e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5krysha
+    second: {fileID: 2100000, guid: 6ac85a170238f4d48857217ae271d9e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5krysha.001
+    second: {fileID: 2100000, guid: 742bc9836d3213a4ba9709325d48655d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5pol
+    second: {fileID: 2100000, guid: de12b74593d30e745aa5059334e569b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5pol.001
+    second: {fileID: 2100000, guid: de12b74593d30e745aa5059334e569b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5polGreen
+    second: {fileID: 2100000, guid: b9e7ad25ce7d0f949abb3ddda98ca887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5polGreen.001
+    second: {fileID: 2100000, guid: b9e7ad25ce7d0f949abb3ddda98ca887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5red45
+    second: {fileID: 2100000, guid: cd67e28ec281ff541acc715d7fde89bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5red45.001
+    second: {fileID: 2100000, guid: 1837232ee41dcc7458abd599a40b93d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5redRefl
+    second: {fileID: 2100000, guid: 7c8f4b9faf1c32345825612080e9a118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5redRefl.001
+    second: {fileID: 2100000, guid: e6704611cf5402248a29b0073e094a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5stena
+    second: {fileID: 2100000, guid: 2e18c9058c4a9be4cbcc1a522e0425b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5stena.001
+    second: {fileID: 2100000, guid: 2e18c9058c4a9be4cbcc1a522e0425b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5stena2
+    second: {fileID: 2100000, guid: 5890a670fd0d06a48a1dee5bf27d4e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5stena2.001
+    second: {fileID: 2100000, guid: 5890a670fd0d06a48a1dee5bf27d4e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5stup
+    second: {fileID: 2100000, guid: 2fb1feb8e2906f848831b6fe5656a661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5stup.001
+    second: {fileID: 2100000, guid: 2fb1feb8e2906f848831b6fe5656a661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: cb89efd835873b44590d91038be1f29c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: as6
+    second: {fileID: 2100000, guid: 01d160e4001b3e04abaf7c11019024b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: as7
+    second: {fileID: 2100000, guid: 9b3b20bcf8e8c494c8e5868baea164de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt5
+    second: {fileID: 2100000, guid: 916ba8e615e022e4b8040137415bfd42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cnucklesBox
+    second: {fileID: 2100000, guid: c7415825b63259144bae3bc39387710b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkGreenMain.001
+    second: {fileID: 2100000, guid: 039f676326abb8e4896c174411895ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkGreenMain.003
+    second: {fileID: 2100000, guid: 4a3bc9b9ee47aaf4380ee0db67c77cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dyra
+    second: {fileID: 2100000, guid: 823da50f9f59f774fb41a0bb7777432a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: greenMain.003
+    second: {fileID: 2100000, guid: 01d160e4001b3e04abaf7c11019024b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kassa
+    second: {fileID: 2100000, guid: 01d160e4001b3e04abaf7c11019024b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kassa.001
+    second: {fileID: 2100000, guid: 01d160e4001b3e04abaf7c11019024b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp
+    second: {fileID: 2100000, guid: 85031708aa9c37d43b1905d0e69abf73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp.001
+    second: {fileID: 2100000, guid: 85031708aa9c37d43b1905d0e69abf73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: newBordur
+    second: {fileID: 2100000, guid: 01d160e4001b3e04abaf7c11019024b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sigiBoxImg
+    second: {fileID: 2100000, guid: b6a038ebc25172a4899ca496428e6430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sigiBoxImg.001
+    second: {fileID: 2100000, guid: b6a038ebc25172a4899ca496428e6430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trava
+    second: {fileID: 2100000, guid: 1efec6a14c565b9488330e4899a4c09b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trava2
+    second: {fileID: 2100000, guid: 1efec6a14c565b9488330e4899a4c09b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: 08bb50ff79d4ba14abf7156ca9fb9e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whiteLamp
+    second: {fileID: 2100000, guid: 6912dc0119cee6e48adcf89cffa1f3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_225143087
+    second: {fileID: 2100000, guid: 0290dce340e104a4c8e9dfdfd126d728, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["lamps.002","lamps.001","sigiBox","Fence.008","Fence.004","5pol.001","5potolo2","5pol.003","5glass.001","5pol.005","5bot","Cube.001","Fence.003","5stup2","5glass.003","5line","5glass.002","Fence.000","5polki.001","5TopRerf","5potolok3","5base","5glass","Cube","5pol.002","5TopRefl","5TopRefl.002","5pol","5potolok","5TopRefl.001","lamps"],"padding":[83,41,160,256,256,19,13,30,256,20,18,34,256,24,256,13,256,256,28,37,36,8,256,47,35,87,37,17,19,13,34]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

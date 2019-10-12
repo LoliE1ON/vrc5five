@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: fd73d8ebc4bae4445b6e15e0504db9e9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: etaj004.000
+    100004: etaj004.001
+    100006: etaj004.002
+    100008: etaj004.003
+    100010: etaj004.004
+    100012: Hemi.006
+    100014: OBJ005
+    100016: OBJ005.001
+    100018: OBJ005.002
+    100020: OBJ005.003
+    100022: OBJ005.004
+    100024: Hemi.007
+    100026: etaj.001
+    100028: etaj.002
+    100030: etaj.003
+    100032: etaj.004
+    100034: etaj.005
+    100036: etaj.006
+    100038: etaj.007
+    100040: etaj.008
+    100042: etaj.009
+    100044: etaj004
+    100046: Hemi.002
+    100048: etaj.000
+    100050: etaj.010
+    100052: etaj.011
+    100054: etaj.012
+    100056: etaj.013
+    100058: Cube
+    100060: Cube.001
+    100062: Hemi
+    400000: //RootNode
+    400002: etaj004.000
+    400004: etaj004.001
+    400006: etaj004.002
+    400008: etaj004.003
+    400010: etaj004.004
+    400012: Hemi.006
+    400014: OBJ005
+    400016: OBJ005.001
+    400018: OBJ005.002
+    400020: OBJ005.003
+    400022: OBJ005.004
+    400024: Hemi.007
+    400026: etaj.001
+    400028: etaj.002
+    400030: etaj.003
+    400032: etaj.004
+    400034: etaj.005
+    400036: etaj.006
+    400038: etaj.007
+    400040: etaj.008
+    400042: etaj.009
+    400044: etaj004
+    400046: Hemi.002
+    400048: etaj.000
+    400050: etaj.010
+    400052: etaj.011
+    400054: etaj.012
+    400056: etaj.013
+    400058: Cube
+    400060: Cube.001
+    400062: Hemi
+    2100000: 300panels.001
+    2100002: plastic okna.001
+    2100004: 300panels
+    2100006: steklo okna
+    2300000: etaj004.000
+    2300002: etaj004.001
+    2300004: etaj004.002
+    2300006: etaj004.003
+    2300008: etaj004.004
+    2300010: OBJ005
+    2300012: OBJ005.001
+    2300014: OBJ005.002
+    2300016: OBJ005.003
+    2300018: OBJ005.004
+    2300020: etaj.001
+    2300022: etaj.002
+    2300024: etaj.003
+    2300026: etaj.004
+    2300028: etaj.005
+    2300030: etaj.006
+    2300032: etaj.007
+    2300034: etaj.008
+    2300036: etaj.009
+    2300038: etaj004
+    2300040: etaj.000
+    2300042: etaj.010
+    2300044: etaj.011
+    2300046: etaj.012
+    2300048: etaj.013
+    2300050: Cube
+    2300052: Cube.001
+    3300000: etaj004.000
+    3300002: etaj004.001
+    3300004: etaj004.002
+    3300006: etaj004.003
+    3300008: etaj004.004
+    3300010: OBJ005
+    3300012: OBJ005.001
+    3300014: OBJ005.002
+    3300016: OBJ005.003
+    3300018: OBJ005.004
+    3300020: etaj.001
+    3300022: etaj.002
+    3300024: etaj.003
+    3300026: etaj.004
+    3300028: etaj.005
+    3300030: etaj.006
+    3300032: etaj.007
+    3300034: etaj.008
+    3300036: etaj.009
+    3300038: etaj004
+    3300040: etaj.000
+    3300042: etaj.010
+    3300044: etaj.011
+    3300046: etaj.012
+    3300048: etaj.013
+    3300050: Cube
+    3300052: Cube.001
+    4300000: OBJ005.004
+    4300002: OBJ005.003
+    4300004: OBJ005.002
+    4300006: OBJ005.001
+    4300008: etaj004.004
+    4300010: etaj004.003
+    4300012: etaj004.002
+    4300014: etaj004.000
+    4300016: etaj004.001
+    4300018: OBJ005
+    4300020: etaj004
+    4300022: etaj.009
+    4300024: etaj.008
+    4300026: etaj.007
+    4300028: etaj.006
+    4300030: etaj.005
+    4300032: etaj.004
+    4300034: etaj.002
+    4300036: etaj.003
+    4300038: etaj.001
+    4300040: etaj.013
+    4300042: etaj.012
+    4300044: etaj.011
+    4300046: etaj.010
+    4300048: etaj.000
+    4300050: Cube
+    4300052: Cube.001
+    10800000: Hemi.006
+    10800002: Hemi.007
+    10800004: Hemi.002
+    10800006: Hemi
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 300panels
+    second: {fileID: 2100000, guid: 71309a1063cfd9040ac0c6e71619a826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 300panels.001
+    second: {fileID: 2100000, guid: 71309a1063cfd9040ac0c6e71619a826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 300panels.002
+    second: {fileID: 2100000, guid: 71309a1063cfd9040ac0c6e71619a826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 40f11e71af3ca3e499ababa8cbbbf044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: e4be04ff26babab4391131d1edcb2550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: beaa98d70278255409a83b34139e7860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic okna.001
+    second: {fileID: 2100000, guid: 7ecf7305ed4d41e4d8d90e51c88355a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic okna.002
+    second: {fileID: 2100000, guid: 9a49d8500ceca404c999003c69e1f10c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steklo okna
+    second: {fileID: 2100000, guid: ff7cb94590d0ea74e8e526082ce4459e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steklo okna.001
+    second: {fileID: 2100000, guid: 07bf49ee56e543b44a803525c8c7871c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["etaj.000","etaj.007","etaj.001","etaj.011","etaj.002","etaj.004","etaj004","etaj.013","etaj.010","etaj.005","etaj.003","etaj004.001","etaj.009","etaj.008","etaj.012"],"padding":[9,25,9,9,10,9,33,13,9,14,9,33,25,25,9]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
