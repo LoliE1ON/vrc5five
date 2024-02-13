@@ -1,6 +1,6 @@
 # 5 Пятерочка VRChat
 
-Здесь хранятся релизы карты, которые будут разбросаны по разным веткам.
+Sources
 
 master:
 ``
@@ -23,7 +23,7 @@ Unity 2017.4.28f1
 Post processing 2
 ``
 ``
-Standart Assets
+Standart Assets // TODO: Deprecated
 ``
 ``
 Bakery
